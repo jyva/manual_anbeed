@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "ANBEED.ent">
+%BOOK_ENTITIES;
+]>
+<bookinfo id="book-ANBEED-ANBEED" lang="es-ES">
+	<title>ANBEED</title>
+	 <subtitle>Sistema ANBEED para gestionar la regulacion farmaceutica</subtitle>
+	 <productname>Manual de Usuario</productname>
+	 <productnumber>1.0</productnumber>
+	 <edition>1</edition>
+	 <pubsnumber>1</pubsnumber>
+	 <abstract>
+		<para>
+			El presente manual de usuario fue pensado para facilitar al usuario el manejo del <application>Sistema ANBEED</application>, en el cual se detalla todas las opciones y funcionalidades que tiene el sistema en sus módulos.
+		</para>
+
+	</abstract>
+	 <corpauthor>
+		<inlinemediaobject>
+			<imageobject>
+				<imagedata fileref="images/capsule.png" format="PNG" width="444" />
+			</imageobject>
+
+		</inlinemediaobject>
+
+	</corpauthor>
+	 <xi:include href="Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+</bookinfo>
+
