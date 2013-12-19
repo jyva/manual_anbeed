@@ -4,16 +4,14 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-ANBEED-Test_Chapter">
-	<title>Capítulo X Emisión de Correspondencia</title>
+	<title>Test Chapter</title>
 	<para>
-		En este capítulo se describe la funcionalidad detallada para 
-                registrar la emisión de correspondencia. 
-            
+		This is a test paragraph
 	</para>
 	<section id="sect-ANBEED-Test_Chapter-Test_Section_1">
-		<title>Registro de Correspondencia</title>
+		<title>Test Section 1</title>
 		<para>
-			
+			This is a test paragraph in a section
 		</para>
 	</section>
 	
