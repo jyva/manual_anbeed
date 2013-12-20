@@ -1,0 +1,122 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="capitulo_2">
+    <title>Interfaz de usuario, primeros pasos.</title>
+    <figure>
+        <title>Navegador web</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantánea101.png"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    
+    <para>
+        El sistema es completamente web, para esto usted necesita primero abrir
+        un navegador web como <application>Mozilla Firefox</application> o 
+        <application>Google Chrome</application>.
+    </para>
+    
+    <important>
+        <title>importante</title>
+        <para>
+            Se recomienda al usuario no usar del navegador <application>Internet Explorer</application>
+            nativo de <application>Ms Windows</application> para tener un mejor
+            rendimiento del sistema elija siempre el navegador 
+            <application>Firefox</application> o <application>Google Chrome</application>.
+        </para>
+    </important>
+    
+    <figure>
+        <title>Página login del sistema ANBEED</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantánea100.png" scalefit="1" width="100%" contentdepth="100%" />
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        Una vez abierto el navegador debemos colocar en la barra de direcciones
+        la URL del sistema <application>www.anbeed.com</application>
+        el navegador solicitara la página principal y nos mostrara la página de
+        <application>login</application>
+    </para>
+    <figure>
+        <title>Cabecera del sistema: menú, informaciones y acciones</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantánea100.png" width="3in"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        En el panel superior tenemos un menú que nos servirá para desplazarnos
+        por el sistema, tenemos la información del usuario con la que
+        se ingreso.
+    </para>
+    <para>
+        De regional a regional la información es diferente, en algunas 
+        aplicaciones tendremos acciones como extracción de archivos PDFs u otras.
+    </para>
+    <figure>
+        <title>Portal del sistema SACFI</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea4.png"  scale="40"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        Si el usuario y el password son correctos veremos el portal del sistema,
+        podemos seleccionar la tarea que deseamos seleccionar, como
+        registrar una Unidad en la Regional, o Ubicación en la Unidad.
+    </para>
+    <figure>
+        <title>Ejemplo de applicacion de SACFI</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea5.png"  scale="80"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        Se ingresa a una de las aplicaciones con un clic derecho, por lo general
+        el sistema tiene el mismo aspecto, información en la cabecera, un cuerpo
+        y las acciones en la parte inferior.
+    </para>
+    <figure>
+        <title>Ejemplo de aplicación registro</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea6.png"  scale="80"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        Si pulsamos en una acción como en nuevo o en editar veremos una 
+        aplicación similar a la siguiente pantalla, donde debemos llenar los 
+        controles con la información que corresponda.
+    </para>
+    <note>
+        <title>Nota - Controles de registros</title>
+        <para>
+            Tenemos la misma estructura, información en la cabecera, controles o 
+            campos para ser llenados en el cuerpo y acciones en la parte inferior,
+            para almacenar la información debemos hacer click en el botón "Guardar",
+            si deseamos guardar y llenar otro rápidamente, hacemos un click en el
+            botón "Guardar y crear otro".
+        </para>
+    </note>
+    <warning>
+        <title>Advertencia - Integridad de datos</title>
+        <para>
+            En ningún sistema respetable los datos son eliminados o borrados, ya
+            que un sistema esta pensado para mantener un historial de movimientos
+            el sistema carece de esta función, pero si proporciona una alternativa
+            de anularlos, pero estos pasan a un historial con el usuario que los acciono.
+        </para>
+
+    </warning>
+</chapter>
