@@ -4,33 +4,109 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-ANBEED-Test_Chapter" lang="es-ES">
-	<title>Test Chapter</title>
+	<title>Administración</title>
+	 <figure>
+		<title>Cubo de Administración</title>
+		 <mediaobject>
+			<imageobject>
+				<imagedata fileref="images/Administracion/cubo.png" scale="83" />
+			</imageobject>
+
+		</mediaobject>
+
+	</figure>
 	 <para>
-		This is a test paragraph
+		En este capítulo se describe la funcionalidad detallada para administrar la información complementaria para el sistema.
 	</para>
-	 <section id="sect-ANBEED-Test_Chapter-Test_Section_1">
-		<title>Test Section 1</title>
+	 <section id="capitulo-administracion-codigo-producto">
+		<title>Código de Producto</title>
 		 <para>
-			This is a test paragraph in a section
+			En el cubo de administración se tiene el link para administrar los <application>Códigos de Productos</application> existentes (II, DI, NSOC, etc.). Al hacer click en el link, se desplegará la lista de códigos registrados.
 		</para>
+		 <figure>
+			<title>Listado de Códigos de Producto</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/Administracion/CodigoProducto/lista.png" scale="83" width="444" />
+				</imageobject>
 
-	</section>
-	
-	 <section id="sect-ANBEED-Test_Chapter-Test_Section_2">
-		<title>Test Section 2</title>
+			</mediaobject>
+
+		</figure>
+		 <note>
+			<title>Nota - Navegación</title>
+			 <para>
+				Para regresar al portal del sistema, haga click en <application>Volver al Portal</application>.
+			</para>
+
+		</note>
 		 <para>
-			This is a test paragraph in Section 2 
-			<orderedlist>
-				<listitem>
-					<para>
-						listitem text
-					</para>
-
-				</listitem>
-
-			</orderedlist>
-
+			Para crear un código de producto, debe hacer click en <application>Nuevo</application> que se encuentra en la parte inferior de la lista, introduzca la información que se solicita y haga click en el botón <application>Guardar</application> y el nuevo código de producto se mostraŕa en el listado.
 		</para>
+		 <figure>
+			<title>Nuevo Código de Producto</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/Administracion/CodigoProducto/nuevo.png" scale="83" width="444" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+		 <note>
+			<title>Nota - Navegación</title>
+			 <para>
+				Para regresar a la lista, haga click en el link <application>Listar</application>.
+			</para>
+
+		</note>
+		 <para>
+			Para editar un código ya guardado, haga click en el link de <application>Editar</application> del codigo que desea editar. Cambie la información que desea y haga click en <application>Guardar</application>.
+		</para>
+		 <figure>
+			<title>Editar un Código de Producto</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/Administracion/CodigoProducto/editar.png" scale="83" width="444" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+		 <note>
+			<title>Nota - Borrar</title>
+			 <para>
+				Para regresar a la lista, haga click en el link <application>Listar</application> Si desea borrar el código de producto, haga click en el link <application>Borrar</application>, se desplegara un diálogo de aceptación o cancelación. Tambien puede borrar un código de producto desde la lista.
+			</para>
+
+		</note>
+		 <para>
+			Para filtrar la lista de códigos de producto, introduzca los criterios de búsqueda en la sección de filtros, según las opciones de búsqueda disponibles, luego haga click en el botón <application>Filtrar</application>, la lista mostrará los datos registrados que coincidan total o parcialmente con el criterio introducido.
+		</para>
+		 <figure>
+			<title>Filtros para los Código de Producto</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/Administracion/CodigoProducto/filtro.png" scale="83" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+		 <note>
+			<title>Nota - Filtros</title>
+			 <para>
+				Puede introducir criterios de búqueda parciales, es decir, puede introducir "ca", el resultado mostrará todos los registros que tengan "ca" en alguna parte de la palabra.
+			</para>
+
+		</note>
+		 <important>
+			<title>Importante - Filtros</title>
+			 <para>
+				Para quitar el filtro haga click en el link <application>Reestablecer</application>, caso contrario la lista se mostrara siempre con el filtro hasta que cierre sesión.
+			</para>
+
+		</important>
 
 	</section>
 	
