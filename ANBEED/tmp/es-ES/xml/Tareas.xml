@@ -4,12 +4,12 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="tareas" lang="es-ES">
-	<title>Administración de la Asignación de Tareas</title>
+	<title>Asignación de Tareas</title>
 	 <figure>
 		<title>Asignación de Tareas</title>
 		 <mediaobject>
 			<imageobject>
-				<imagedata fileref="images/tareas/1.png" scale="83" />
+				<imagedata align="center" fileref="images/tareas/1.png" scale="83" />
 			</imageobject>
 
 		</mediaobject>
@@ -31,7 +31,7 @@
 			<title>Asignar nueva tarea</title>
 			 <mediaobject>
 				<imageobject>
-					<imagedata fileref="images/tareas/2.png" scale="83" />
+					<imagedata align="center" fileref="images/tareas/2.png" scale="83" />
 				</imageobject>
 
 			</mediaobject>
@@ -44,7 +44,7 @@
 			<title>Nueva Tarea</title>
 			 <mediaobject>
 				<imageobject>
-					<imagedata fileref="images/tareas/2.1.png" scale="83" width="444" />
+					<imagedata align="center" fileref="images/tareas/2.1.png" width="500" />
 				</imageobject>
 
 			</mediaobject>
@@ -59,7 +59,7 @@
 			<title>Tareas Asignadas</title>
 			 <mediaobject>
 				<imageobject>
-					<imagedata fileref="images/tareas/3.png" scale="83" />
+					<imagedata align="center" fileref="images/tareas/3.png" scale="83" />
 				</imageobject>
 
 			</mediaobject>
@@ -72,7 +72,7 @@
 			<title>Listado de Tareas Asignadas</title>
 			 <mediaobject>
 				<imageobject>
-					<imagedata fileref="images/tareas/3.1.png" scale="83" width="444" />
+					<imagedata align="center" fileref="images/tareas/3.1.png" width="500" />
 				</imageobject>
 
 			</mediaobject>
@@ -85,7 +85,7 @@
 			<title>Comentarios</title>
 			 <mediaobject>
 				<imageobject>
-					<imagedata fileref="images/tareas/3.2.png" scale="83" width="444" />
+					<imagedata align="center" fileref="images/tareas/3.2.png" width="500" />
 				</imageobject>
 
 			</mediaobject>
@@ -94,7 +94,7 @@
 		 <important>
 			<title>Tareas en Progreso, Observadas y Concluidas</title>
 			 <para>
-				El listado de <application>Tareas en Progreso, Observadas y Concluidas</application> el procedimiento es el mismo que la anterior seccion <application> Listado de Tareas Asignadas</application>, por lo que para listar o comentar alguna tarea de las listas de los estado ya mencionados seguimos el mismo proceder de la sección anterior.
+				El listado de <application>Tareas en Progreso, Observadas y Concluidas</application> el procedimiento es el mismo que la anterior sección: <application> Listado de Tareas Asignadas</application>, por lo que para listar o comentar alguna tarea de las listas de los estado ya mencionados seguimos el mismo proceder de la sección anterior.
 			</para>
 
 		</important>
@@ -102,7 +102,7 @@
 			<title>Tareas en Progreso, Observadas y Concluidas</title>
 			 <mediaobject>
 				<imageobject>
-					<imagedata fileref="images/tareas/4.png" scale="83" />
+					<imagedata align="center" fileref="images/tareas/4.png" scale="83" />
 				</imageobject>
 
 			</mediaobject>
@@ -117,33 +117,72 @@
 			<title>Tareas Asignadas</title>
 			 <mediaobject>
 				<imageobject>
-					<imagedata fileref="images/tareas/5.png" scale="83" />
+					<imagedata align="center" fileref="images/tareas/5.png" scale="83" />
 				</imageobject>
 
 			</mediaobject>
 
 		</figure>
 		 <para>
-			Una vez asignada las tareas por el administrador se tiene la opcion del listado de todas las <application>tareas asignadas</application>. En esta opción, en la parte de acciones se encuentra la opción de comentarios que se pueden registrar entre el usuario administrador y el usuario al que se asignó la tarea respectiva.
+			Esta sección esta relacionada a la administración de las tareas asignadas a los usuarios; es decir, los usuarios regulares ingresan a esta opción para ver las tareas asignadas a éste. El usuario tiene el listado de las tareas en sus diferentes estados.
 		</para>
-		 <note>
-			<title>Nota - Acciones</title>
-			 <para>
-				En caso de querer eliminar o editar algun elemento registrado descrito en este capítulo, se debe seguir los pasos explicados de estas acciones en el capítulo de aspectos generales del sistema.
-			</para>
-
-		</note>
 		 <section>
-			<title> Tareas Asigandas al Usuario</title>
+			<title>Listado de tareas Asignadas</title>
+			 <figure>
+				<title>Tareas Asignadas</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata align="center" fileref="images/tareas/6.png" scale="83" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
 			 <para>
-				asdasdasd
+				En esta sección el usuario podrá listar las tareas <application> asigandas</application> y sus respectivos comentarios; es decir sigue la misma lógica del punto 4.1. El usuario que fue asignado a una respectiva tarea será el único con permisos de cambiar su estado.
 			</para>
+			 <figure>
+				<title>Tareas Asignadas</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata align="center" fileref="images/tareas/3.1.png" width="500" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
+			 <figure>
+				<title>Comentarios</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata align="center" fileref="images/tareas/3.2.png" width="500" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
+			 <important>
+				<title>Tareas en Progreso, Observadas y Concluidas</title>
+				 <para>
+					El listado de <application>Tareas en Progreso, Observadas y Concluidas</application> el procedimiento es el mismo que la anterior sección: <application> Listado de Tareas Asignadas</application>, por lo que para listar o comentar alguna tarea de las listas de los estado ya mencionados seguimos el mismo proceder de la sección anterior.
+				</para>
+
+			</important>
+			 <figure>
+				<title>Tareas en Progreso, Observadas y Concluidas</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata align="center" fileref="images/tareas/4.png" scale="80" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
 
 		</section>
 		
 
 	</section>
-	
 
 </chapter>
 

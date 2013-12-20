@@ -9,7 +9,7 @@
         <title>Registro de Correspondencia</title>
         <mediaobject>
             <imageobject>
-                <imagedata fileref="images/correspondencia/corresp1.png" scale="83"/>
+                <imagedata fileref="images/correspondencia/corresp1.png" scale="83" align="center"/>
             </imageobject>
         </mediaobject>
     </figure>
@@ -36,7 +36,7 @@
             <title>Tipo de Documento</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp2.png" scale="83"/>
+                    <imagedata fileref="images/correspondencia/corresp2.png" scale="83" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -50,7 +50,7 @@
             <title>Nuevo Tipo de Documento</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp3.png" scale="40"/>
+                    <imagedata fileref="images/correspondencia/corresp3.png" scale="40" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -64,7 +64,7 @@
             <title>Guardar Tipo de Documento</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp4.png" scale="40"/>
+                    <imagedata fileref="images/correspondencia/corresp4.png" scale="40" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -75,7 +75,7 @@
             <title>Emisor de Correspondencia</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp5.png" scale="83"/>
+                    <imagedata fileref="images/correspondencia/corresp5.png" scale="83" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -89,7 +89,7 @@
             <title>Nuevo Emisor de Correspondencia</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp6.png" scale="40"/>
+                    <imagedata fileref="images/correspondencia/corresp6.png" scale="40" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -103,7 +103,7 @@
             <title>Guardar Emisor de Correspondencia</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp7.png" scale="40"/>
+                    <imagedata fileref="images/correspondencia/corresp7.png" scale="40" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -115,7 +115,7 @@
             <title>Emisión de Correspondencia</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp8.png" scale="83"/>
+                    <imagedata fileref="images/correspondencia/corresp8.png" scale="83" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -131,7 +131,7 @@
             <title>Emisión de Correspondencia</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp9.png" scale="40"/>
+                    <imagedata fileref="images/correspondencia/corresp9.png" scale="40" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -157,7 +157,7 @@
             <title>Guardar Emisor de Correspondencia</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/correspondencia/corresp10.png" scale="40"/>
+                    <imagedata fileref="images/correspondencia/corresp10.png" scale="40" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>

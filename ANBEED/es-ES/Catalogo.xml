@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "ANBEED.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="catalogo">
+    <title>Catálogo de productos</title>
+    <figure>
+        <title>Catálogos de productos</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/catalogo/1.png" scale="83" align="center"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    <para>
+        En este capítulo se describe la funcionalidad detallada de la administración
+        de productos del catálogo que se difunde en la página Web Institucional de
+        ANBEED SRL.
+    </para>
+        
+    <important>
+        <title>Importante</title>
+        <para>
+            Se debe tener registrado las <application> categorías y las Líneas (marcas)
+            </application>de los productos a registrar, para realizar el correcto 
+            almacentamiento ordenado según los campos ya mencionados.
+        </para>
+    </important>    
+	
+    <section>
+        <title>Registrar Categorías</title>
+        <figure>
+            <title>Registrar nueva Categoría</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/catalogo/8.png" scale="83" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Al seleccionar la opción de registrar<application> nueva categoría</application>, 
+            uniccamente debemos registrar el nombre de la categoría (obligatoriamente)
+            y la descripción de ésta (opcional), como se muestra en la siguiente imagen:
+        </para>
+        <figure>
+            <title>Nueva Categoria</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/catalogo/3.png" width="500" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </section>
+    
+    <section>
+        <title>Registrar Líneas (marcas)</title>
+        <figure>
+            <title>Registrar nueva Línea</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/catalogo/9.png" scale="83" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Al seleccionar la opción de registrar<application> nueva línea</application>, 
+            únicamente debemos registrar el nombre de la línea (obligatoriamente)
+            y la descripción de ésta (opcional), como se muestra en la siguiente imagen:
+        </para>
+        <figure>
+            <title>Nueva Línea</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/catalogo/4.png" width="500" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </section>
+    
+    
+    <section>
+        <title>Catálogo de Productos</title>
+        <figure>
+            <title>Nuevo Producto</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/catalogo/7.png" scale="83" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Una vez se cuenta con las categorías y las líneas, se procede a registrar 
+            el <application>producto nuevo</application> con lo que se registra:
+             seleccionamos justamente la categoría y la línea del producto, luego
+             seleccionamos la procedencia del producto, nombre y características.
+             Como parte final se adjunta la imagen del producto, tal y como se
+             muestra en la siguiente pantalla:
+        </para>
+        <figure>
+            <title>Nuevo Producto</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/catalogo/2.png" width="500" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <figure>
+            <title>Producto Registrado</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/catalogo/5.png" width="500" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+        
+        <figure>
+            <title>Listado de Productos del Catálodo</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/catalogo/6.png" width="500" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        
+        <important> 
+            <title>Importante</title>
+            <para>
+                Todos los productos que se registren deben estar correctamente
+                ingresados tanto en ortografía como en el detalle de sus características
+                ya que estos seran espuestos en la página Web.
+            </para>
+        </important>
+    </section>
+</chapter>
+

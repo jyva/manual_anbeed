@@ -9,7 +9,7 @@
         <title>Caducidad de Productos</title>
         <mediaobject>
             <imageobject>
-                <imagedata fileref="images/caducidad/1.png" scale="83"/>
+                <imagedata fileref="images/caducidad/1.png" scale="83" align="center"/>
             </imageobject>
         </mediaobject>
     </figure>
@@ -39,7 +39,7 @@
             <title>Caducidad 1 Mes</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/caducidad/2.png" scale="83"/>
+                    <imagedata fileref="images/caducidad/2.png" scale="83" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -62,7 +62,7 @@
             <title>Caducidad</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/caducidad/3.png" scale="100"/>
+                    <imagedata fileref="images/caducidad/3.png" scale="100" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>   
@@ -74,7 +74,7 @@
             <title>Caducidad 3 Meses</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/caducidad/4.png" scale="83"/>
+                    <imagedata fileref="images/caducidad/4.png" scale="83" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -97,7 +97,7 @@
             <title>Caducidad</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/caducidad/5.png" scale="83"/>
+                    <imagedata fileref="images/caducidad/5.png" scale="83" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>   
@@ -109,7 +109,7 @@
             <title>Caducidad vigencia 6 Meses</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/caducidad/6.png" scale="83"/>
+                    <imagedata fileref="images/caducidad/6.png" scale="83" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -132,7 +132,7 @@
             <title>Caducidad</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/caducidad/7.png" scale="83"/>
+                    <imagedata fileref="images/caducidad/7.png" scale="83" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>   
