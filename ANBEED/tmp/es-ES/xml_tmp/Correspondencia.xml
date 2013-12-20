@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "ANBEED.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="capitulo3">
+<chapter id="correspondencia">
     <title>Emisión de Correspondencia</title>
     <figure>
         <title>Registro de Correspondencia</title>
@@ -19,7 +19,7 @@
             
     </para>
         
-     <important>
+    <important>
         <title>importante</title>
         <para>
             Se debe considerar  que al momento de registrar una emisión de 
@@ -111,7 +111,7 @@
     
     <section>
         <title>Registro de Correspondencia</title>
-         <figure>
+        <figure>
             <title>Emisión de Correspondencia</title>
             <mediaobject>
                 <imageobject>
@@ -142,7 +142,7 @@
             , <application>Detalle o nombre</application>, <application>Correspondencia</application>
             y el <application>Número de guía</application>.
         </para>
-        <para dir="ltr">
+        <para>
             Los restantes campos que cuenta este formulario o son obligatorios, 
             depende del detalle y tipo de correspondencia que se registará, estos
             campos son: Empresa - Otro destino( en caso de que no se mande a una
@@ -162,13 +162,13 @@
             </mediaobject>
         </figure>
         <note> 
-        <title>Nota - Acciones</title>
-        <para dir="ltr">
-            En caso de querer eliminar o editar algun elemento registrado 
-            descrito en este capítulo, se debe seguir los pasos explicados de 
-            estas acciones en el capítulo de aspectos generales del sistema. 
-        </para>
-    </note>
+            <title>Nota - Acciones</title>
+            <para>
+                En caso de querer eliminar o editar algun elemento registrado 
+                descrito en este capítulo, se debe seguir los pasos explicados de 
+                estas acciones en el capítulo de aspectos generales del sistema. 
+            </para>
+        </note>
     </section>
 </chapter>
 

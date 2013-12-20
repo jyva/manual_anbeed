@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "ANBEED.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="caducidad" lang="es-ES">
+	<title>Reporte Caducidad de Productos</title>
+	 <figure>
+		<title>Caducidad de Productos</title>
+		 <mediaobject>
+			<imageobject>
+				<imagedata fileref="images/caducidad/1.png" scale="83" />
+			</imageobject>
+
+		</mediaobject>
+
+	</figure>
+	 <para>
+		En este capítulo se describe la funcionalidad del reporte de caducidad de productos que el sistema genera según la fecha actual y la vigencia del Registro Sanitario de cada producto.
+	</para>
+	 <important>
+		<title>importante</title>
+		 <para>
+			Se debe toma en cuenta que el reporte generado automáticamente por el sistema depende exclusivamente de la información que se registra en los diferentes formularios relacionados a los productos (medicamentos, reactivos, dispositivos médicos, cosméticos y productos de higiene), tanto en la vigencia del producto(debe estar reflejada en meses) y la fecha de inicio de vigencia del registro sanitario. )
+		</para>
+
+	</important>
+	 <section>
+		<title>Caducidad vigencia 1 Mes</title>
+		 <figure>
+			<title>Caducidad 1 Mes</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/caducidad/2.png" scale="83" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+		 <para>
+			Al ingresar al listado de todos los productos con <application>Caducidad menor igual a 1 mes</application> justamente aparecerán exclusivamente los productos que su vigencia vence en 1 mes. Cabe remarcar que los productos sin importar su tipo se listarán, con la única condición que la vigencia se venza en un mes o antes, de acuerdo a la fecha de inicio de vigencia del registro sanitario.
+		</para>
+		 <note>
+			<title>Filtrado</title>
+			 <para>
+				En caso de contarse varios productos, para facilitar la búsqueda se puede filtrar con el tipo de producto para controlar lo necesario.
+			</para>
+
+		</note>
+		 <figure>
+			<title>Caducidad</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/caducidad/3.png" scale="100" width="444" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+
+	</section>
+	
+	 <section>
+		<title>Caducidad vigencia 3 Meses</title>
+		 <figure>
+			<title>Caducidad 3 Meses</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/caducidad/4.png" scale="83" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+		 <para>
+			Al ingresar al listado de todos los productos con <application>Caducidad menor igual a 3 meses</application> justamente aparecerán exclusivamente los productos que su vigencia vence en 3 meses. Cabe remarcar que los productos sin importar su tipo se listarán, con la única condición que la vigencia se venza en 3 meses o antes, de acuerdo a la fecha de inicio de vigencia del registro sanitario.
+		</para>
+		 <note>
+			<title>Filtrado</title>
+			 <para>
+				En caso de contarse varios productos, para facilitar la búsqueda se puede filtrar con el tipo de producto para controlar lo necesario.
+			</para>
+
+		</note>
+		 <figure>
+			<title>Caducidad</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/caducidad/5.png" scale="83" width="444" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+
+	</section>
+	
+	 <section>
+		<title>Caducidad vigencia 6 Meses</title>
+		 <figure>
+			<title>Caducidad vigencia 6 Meses</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/caducidad/6.png" scale="83" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+		 <para>
+			Al ingresar al listado de todos los productos con <application>Caducidad menor igual a 6 meses</application> justamente aparecerán exclusivamente los productos que su vigencia vence en 6 meses. Cabe remarcar que los productos sin importar su tipo se listarán, con la única condición que la vigencia se venza en 6 meses o antes, de acuerdo a la fecha de inicio de vigencia del registro sanitario.
+		</para>
+		 <note>
+			<title>Filtrado</title>
+			 <para>
+				En caso de contarse varios productos, para facilitar la búsqueda se puede filtrar con el tipo de producto para controlar lo necesario.
+			</para>
+
+		</note>
+		 <figure>
+			<title>Caducidad</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="images/caducidad/7.png" scale="83" width="444" />
+				</imageobject>
+
+			</mediaobject>
+
+		</figure>
+
+	</section>
+
+</chapter>
+

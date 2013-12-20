@@ -8,6 +8,8 @@
 	<xi:include href="Preface.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="Chapter.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="Correspondencia.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="Caducidad.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="Tareas.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<index />
 </book>
