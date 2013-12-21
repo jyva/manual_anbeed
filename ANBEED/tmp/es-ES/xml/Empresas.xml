@@ -50,53 +50,6 @@
 
 	</section>
 	
-	 <section id="capitulo-empresas-usuarios-clientes">
-		<title>Usuarios Clientes</title>
-		 <para>
-			El link <application>Usuarios clientes</application>, ubicado en el cubo de Empresas, en el <application>Portal del Sistema</application>, permite visualizar la lista de Empresas que tienen usuarios con los cuales puede acceder a los beneficios de Sistema.
-		</para>
-		 <important>
-			<title>Importante - Usuario Cliente</title>
-			 <para>
-				Los usuarios cliente, pueden acceder al Sistema desde la <application>Pagina Web</application>, solamente al <application>Portal de Clientes</application>, no teniendo permisos para acceder <application>Portal del Sistema</application> u otro sitio del sistema que no concierna al cliente.
-			</para>
-
-		</important>
-		 <section>
-			<title>Crear un Usuario Cliente</title>
-			 <para>
-				Para crear un usuario para una Empresa cliente, debe hacer click el link <application>Usuarios clientes</application>, ubicado en el cubo de Empresas, en el <application>Portal del Sistema</application>, se desplegará el listado de usuarios clientes que tiene registrados. Seguidamente, hacer click en el link <application>Nuevo</application> ubicado en la parte inferior a la lista de usuarios. Se solicitarán la información necesaria para registrar el usuario de la empresa, una vez llenados, hacer click en el boton <application>Guardar</application>, el nuevo usuario cliente se mostrará en la lista de Usuarios Clientes.
-			</para>
-			 <figure>
-				<title>Registrar un Nuevo Usuario Cliente</title>
-				 <mediaobject>
-					<imageobject>
-						<imagedata fileref="images/Empresas/Usuario/nuevo.png" scale="83" width="444" />
-					</imageobject>
-
-				</mediaobject>
-
-			</figure>
-			 <important>
-				<title>Importante - Contraseña</title>
-				 <para>
-					Se recomienda asignar una contraseña al usuario cliente, posteriormente el cliente puede cambiar la contraseña una vez ingrese al <application>Portal del Cliente</application>.
-				</para>
-
-			</important>
-			 <warning>
-				<title>Advertencia - Usuarios Cliente</title>
-				 <para>
-					Se recomienda crear un usuario por empresa
-				</para>
-
-			</warning>
-
-		</section>
-		
-
-	</section>
-	
 	 <section id="capitulo-empresas-listado">
 		<title>Listado de Empresas</title>
 		 <para>

@@ -3,113 +3,341 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "ANBEED.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-ANBEED-Test_Chapter" lang="es-ES">
-	<title>Administración</title>
-	 <figure>
-		<title>Cubo de Administración</title>
-		 <mediaobject>
-			<imageobject>
-				<imagedata fileref="images/Administracion/cubo.png" scale="83" />
-			</imageobject>
-
-		</mediaobject>
-
-	</figure>
+<chapter id="capitulo-formularios" lang="es-ES">
+	<title>Formularios y Decisiones</title>
 	 <para>
-		En este capítulo se describe la funcionalidad detallada para administrar la información complementaria para el sistema.
+		En este capítulo se detallará el proceso detallado para crear, editar y borrar e imprimir Formularios que conciernen a trámites farmaceuticos.
 	</para>
-	 <section id="capitulo-administracion-codigo-producto">
-		<title>Código de Producto</title>
+	 <important>
+		<title>Importante - Formularios y Decisiones</title>
 		 <para>
-			En el cubo de administración se tiene el link para administrar los <application>Códigos de Productos</application> existentes (II, DI, NSOC, etc.). Al hacer click en el link, se desplegará la lista de códigos registrados.
+			A diferencia de las empresas o productos, los formularios no cuentan con una sección para crearlas directamente, debido a que, para realizar el tramite de un formulario, primero debe existir el producto que pertenezca a una Empresa.
 		</para>
-		 <figure>
-			<title>Listado de Códigos de Producto</title>
-			 <mediaobject>
-				<imageobject>
-					<imagedata fileref="images/Administracion/CodigoProducto/lista.png" scale="83" width="444" />
-				</imageobject>
 
-			</mediaobject>
-
-		</figure>
-		 <note>
-			<title>Nota - Navegación</title>
-			 <para>
-				Para regresar al portal del sistema, haga click en <application>Volver al Portal</application>.
-			</para>
-
-		</note>
+	</important>
+	 <section id="formularios-3">
+		<title>Formulario 3</title>
 		 <para>
-			Para crear un código de producto, debe hacer click en <application>Nuevo</application> que se encuentra en la parte inferior de la lista, introduzca la información que se solicita y haga click en el botón <application>Guardar</application> y el nuevo código de producto se mostraŕa en el listado.
+			Ver Capitulo Empresas
 		</para>
-		 <figure>
-			<title>Nuevo Código de Producto</title>
-			 <mediaobject>
-				<imageobject>
-					<imagedata fileref="images/Administracion/CodigoProducto/nuevo.png" scale="83" width="444" />
-				</imageobject>
-
-			</mediaobject>
-
-		</figure>
-		 <note>
-			<title>Nota - Navegación</title>
-			 <para>
-				Para regresar a la lista, haga click en el link <application>Listar</application>.
-			</para>
-
-		</note>
-		 <para>
-			Para editar un código ya guardado, haga click en el link de <application>Editar</application> del codigo que desea editar. Cambie la información que desea y haga click en <application>Guardar</application>.
-		</para>
-		 <figure>
-			<title>Editar un Código de Producto</title>
-			 <mediaobject>
-				<imageobject>
-					<imagedata fileref="images/Administracion/CodigoProducto/editar.png" scale="83" width="444" />
-				</imageobject>
-
-			</mediaobject>
-
-		</figure>
-		 <note>
-			<title>Nota - Borrar</title>
-			 <para>
-				Para regresar a la lista, haga click en el link <application>Listar</application> Si desea borrar el código de producto, haga click en el link <application>Borrar</application>, se desplegara un diálogo de aceptación o cancelación. Tambien puede borrar un código de producto desde la lista.
-			</para>
-
-		</note>
-		 <para>
-			Para filtrar la lista de códigos de producto, introduzca los criterios de búsqueda en la sección de filtros, según las opciones de búsqueda disponibles, luego haga click en el botón <application>Filtrar</application>, la lista mostrará los datos registrados que coincidan total o parcialmente con el criterio introducido.
-		</para>
-		 <figure>
-			<title>Filtros para los Código de Producto</title>
-			 <mediaobject>
-				<imageobject>
-					<imagedata fileref="images/Administracion/CodigoProducto/filtro.png" scale="83" />
-				</imageobject>
-
-			</mediaobject>
-
-		</figure>
-		 <note>
-			<title>Nota - Filtros</title>
-			 <para>
-				Puede introducir criterios de búqueda parciales, es decir, puede introducir "ca", el resultado mostrará todos los registros que tengan "ca" en alguna parte de la palabra.
-			</para>
-
-		</note>
-		 <important>
-			<title>Importante - Filtros</title>
-			 <para>
-				Para quitar el filtro haga click en el link <application>Reestablecer</application>, caso contrario la lista se mostrara siempre con el filtro hasta que cierre sesión.
-			</para>
-
-		</important>
 
 	</section>
 	
+	 <section id="formularios-5">
+		<title>Formulario 5, 12, 27, Desicion 516 y 706</title>
+		 <para>
+			Los formulario 5 de medicamentos, formulario 12 de reactivos, formulario 27 de dispositivos medicos, la decisión 516 de cosméticos y la decisión 706 de higiene y limpieza, son trámites farmacéutos para el registro de productos al mercado. El proceso para crear, editar, eliminar e imprimir de estos formularios es el mismo.
+		</para>
+		 <note>
+			<title>Nota - Proceso de administracion de Formluarios</title>
+			 <para>
+				Se tomará como ejemplo al producto de medicamentos y el Formulario 005, para los procesos concernientes.
+			</para>
+
+		</note>
+		 <section>
+			<title>Ver el listado de Formularios</title>
+			 <para>
+				En la lista del producto de medicamentos de la Empresa, se tiene la columna de <application>Acciones</application>, en el cual esta ubicado el link <application>Formulario 005</application>. Al hacer click sobre el link, se desplegara la <application>Lista</application> de <application>formularios 5 que ese producto tiene</application>.
+			</para>
+			 <figure>
+				<title>Link a los Formularios 5</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="images/Formularios/Medicamentos/lista.png" scale="83" width="444" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
+			 <important>
+				<title>Importante - Formularios</title>
+				 <para>
+					Si en la lista no se despliega ningun registro (Sin resultados), es porque el producto no tiene formularios 5 creados. 
+					<figure>
+						<title>Lista Vacía de Formularios</title>
+						 <mediaobject>
+							<imageobject>
+								<imagedata fileref="images/Formularios/Medicamentos/lista-vacia.png" scale="83" width="444" />
+							</imageobject>
+
+						</mediaobject>
+
+					</figure>
+
+				</para>
+
+			</important>
+
+		</section>
+		
+		 <section>
+			<title>Crear un Formulario</title>
+			 <para>
+				Para crear un formulario 5, primero debe crearse el producto de <application>Medicamento</application> (Ver Productos), una vez creado se mostrará en la lista. En la lista de productos de medicamentos de la Empresa, se tiene la columna de <application>Acciones</application>, en el cual esta ubicado el link <application>Formulario 005</application>. Al hacer click sobre el link, se desplegara la lista de <application>formularios 5 que ese producto tiene</application>.
+			</para>
+			 <figure>
+				<title>Link a los Formularios 5</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="images/Formularios/Medicamentos/lista.png" scale="83" width="444" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
+			 <important>
+				<title>Importante - Formularios</title>
+				 <para>
+					Si en la lista no se despliega ningun registro (Sin resultados), es porque el producto no tiene formularios 5 creados. 
+					<figure>
+						<title>Lista Vacía de Formularios</title>
+						 <mediaobject>
+							<imageobject>
+								<imagedata fileref="images/Formularios/Medicamentos/lista-vacia.png" scale="83" width="444" />
+							</imageobject>
+
+						</mediaobject>
+
+					</figure>
+
+				</para>
+
+			</important>
+			 <para>
+				Se debe hacer click en el link <application>Nuevo</application> ubicado en la parte inferior de la lista, se desplegara los datos necesarios para la creación del formulario, una vez llenados hacer click en el boton <application>Guardar</application>, el una vez guardado, el formulario se mostrará en la lista de formularios 5.
+			</para>
+			 <note>
+				<title>Nota - Navegación</title>
+				 <para>
+					Una vez guardado el formulario, para ver la lista hacer click en el link <application>Listar</application> ubicado en la parte inferior de los datos del formulario. En la lista de formularios, se tienen el link <application>Volver a la Empresa</application>, que le redireccionará al Portal de la Empresa, y el link <application>Regresar a Medicamento</application> que le redireccionará a la lista de el producto correspondiente. 
+					<figure>
+						<title>Navegación</title>
+						 <mediaobject>
+							<imageobject>
+								<imagedata fileref="images/Formularios/navegacion.png" scale="83" width="444" />
+							</imageobject>
+
+						</mediaobject>
+
+					</figure>
+
+				</para>
+
+			</note>
+
+		</section>
+		
+		 <section>
+			<title>Imprimir un Formulario</title>
+			 <para>
+				A Partir de la lista correspondiente, puede realizar la impresión del Formulario que desea imprimir haciendo click link en <application>Imprimir</application>, que esta ubicado en la columna de acciones de la lista.
+			</para>
+			 <figure>
+				<title>Imprimir Formulario</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="images/Formularios/Medicamentos/imprimir.png" scale="83" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
+			 <important>
+				<title>Importante - Imprimir</title>
+				 <para>
+					Se desplegará la <application>Vista Previa</application> de la impresión con la herramienta de visualización de archivos PDF determinada por el navegador web. 
+					<figure>
+						<title>Vista Previa</title>
+						 <mediaobject>
+							<imageobject>
+								<imagedata fileref="images/Formularios/vista-previa.png" scale="83" width="444" />
+							</imageobject>
+
+						</mediaobject>
+
+					</figure>
+
+				</para>
+
+			</important>
+
+		</section>
+		
+		 <section>
+			<title>Editar un Formulario</title>
+			 <para>
+				Para editar un formulario 5, debe dirigirse a la <application>Lista de Formularios 5</application> (Ver listado del Formulario 5). En la columa de Acciones de la lista se encuentra el link <application>Editar</application>, una vez se haga click sobre el link, se desplegará la información actual del formulario que puede ser modificado o actualizado. Una vez concluido la modificación, debe hacer click en el boton <application>Guardar</application>, se guardará la información actualizada.
+			</para>
+
+		</section>
+		
+		 <section>
+			<title>Borrar un Formulario</title>
+			 <para>
+				Para borrar un formulario 5, debe dirigirse a la <application>Lista de Formularios 5</application> (Ver listado del Formulario 5). En la columa de Acciones de la lista se encuentra el link <application>Borrar</application>, una vez se haga click sobre el link, se desplegará un dialogo de aceptación o cancelación.
+			</para>
+
+		</section>
+		
+
+	</section>
+	
+	 <section id="formulario-7">
+		<title>El aval, Formulario 7</title>
+		 <section>
+			<title>Crear un aval</title>
+			 <para>
+				En la lista de productos de medicamentos de la Empresa, se tiene la columna de <application>Acciones</application>, en el cual esta ubicado el link <application>Formulario 007</application>. Al hacer click sobre el link, se desplegara la lista de <application>formularios 7 que ese producto tiene</application>.
+			</para>
+			 <figure>
+				<title>Link a los Formularios 7</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="images/Formularios/form7.png" scale="83" width="444" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
+			 <important>
+				<title>Importante - Medicamento para el Aval</title>
+				 <para>
+					Para crear un formulario 7 o Aval, primero debe asegurarse de tener registrado el producto que correspondiente, ya que un aval es la <application>certificación de un producto específico</application> (Ver Productos).
+				</para>
+
+			</important>
+			 <important>
+				<title>Importante - Formularios</title>
+				 <para>
+					Si en la lista no se despliega ningun registro (Sin resultados), es porque el producto no tiene formularios 7 creados. 
+					<figure>
+						<title>Lista Vacía de Formularios 7</title>
+						 <mediaobject>
+							<imageobject>
+								<imagedata fileref="images/Formularios/form7-vacio.png" scale="83" width="444" />
+							</imageobject>
+
+						</mediaobject>
+
+					</figure>
+
+				</para>
+
+			</important>
+			 <para>
+				Se debe hacer click en el link <application>Nuevo</application> ubicado en la parte inferior de la lista, se desplegara los datos necesarios para la creación del formulario, una vez llenados hacer click en el boton <application>Guardar</application>, el una vez guardado, el formulario se mostrará en la lista de formularios 7.
+			</para>
+			 <important>
+				<title>Importante - Seleccionar Producto Genérico</title>
+				 <para>
+					Para un mejor manejo del Formulario 7, el campo <application>Nombre Genérico</application> almacena todos la información necesaria para el producto generico seleccionado, que autocompletará los campos necesarios que corresponden al producto seleccionado. 
+					<figure>
+						<title>Autocompletado</title>
+						 <mediaobject>
+							<imageobject>
+								<imagedata fileref="images/Formularios/form7-auto.png" scale="83" width="444" />
+							</imageobject>
+
+						</mediaobject>
+
+					</figure>
+
+				</para>
+
+			</important>
+			 <note>
+				<title>Nota - Navegación</title>
+				 <para>
+					Una vez guardado el formulario, para ver la lista hacer click en el link <application>Listar</application> ubicado en la parte inferior de los datos del formulario. En la lista de formularios, se tienen el link <application>Volver a la Empresa</application>, que le redireccionará al Portal de la Empresa, y el link <application>Volver al Producto</application> que le redireccionará a la lista de el producto correspondiente. 
+					<figure>
+						<title>Navegación</title>
+						 <mediaobject>
+							<imageobject>
+								<imagedata fileref="images/Formularios/navegacion.png" scale="83" width="444" />
+							</imageobject>
+
+						</mediaobject>
+
+					</figure>
+
+				</para>
+
+			</note>
+
+		</section>
+		
+		 <section>
+			<title>Imprimir un Aval</title>
+			 <para>
+				A Partir de la lista de avales (Ver Crear Aval), puede realizar la impresión del Formulario 7 haciendo click link en <application>Imprimir</application>, que esta ubicado en la columna de acciones de la lista.
+			</para>
+			 <important>
+				<title>Importante - Imprimir</title>
+				 <para>
+					Se desplegará la <application>Vista Previa</application> de la impresión con la herramienta de visualización de archivos PDF determinada por el navegador web. 
+					<figure>
+						<title>Vista Previa</title>
+						 <mediaobject>
+							<imageobject>
+								<imagedata fileref="images/Formularios/vista-previa7.png" scale="83" width="444" />
+							</imageobject>
+
+						</mediaobject>
+
+					</figure>
+
+				</para>
+
+			</important>
+
+		</section>
+		
+
+	</section>
+	
+	 <section>
+		<title>La Fórmula Cuali-cuantitativa</title>
+		 <section>
+			<title>Crear una Fórmula Cuali-cuantitativa</title>
+			 <para>
+				Para crear una fórmula cualicuantitativa, debe dirigirse al listado de medicamentos de la Empresa, hacer click en el link <application>Fórmula Cuali-cuantitativa</application>, el cuál desplegará la siguiente pantalla.
+			</para>
+			 <figure>
+				<title>Nueva Formula Cuali-cuantitativa</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="images/Formularios/formulacc.png" scale="83" width="444" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
+			 <para>
+				Introducir la información necesaria y seguidamente hacer click en el boton <application>Guardar</application>.
+			</para>
+			 <figure>
+				<title>Nueva Formula Cuali-cuantitativa</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="images/Formularios/formulacc.png" scale="83" width="444" />
+					</imageobject>
+
+				</mediaobject>
+
+			</figure>
+			 <important>
+				<title>Importante - Excipientes</title>
+				 <para>
+					Para agregar mas excipientes, simplemente llene nuevamente los campos de ingrediente, cantidad y unidad, y nuevamente haga click en <application>Guardar</application>, el nuevo excipiente se adicionara a la lista ubicada en la parte inferior
+				</para>
+
+			</important>
+
+		</section>
+		
+
+	</section>
 
 </chapter>
 
