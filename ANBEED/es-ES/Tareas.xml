@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "ANBEED.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="tareas">
+    <title>Asignación de Tareas</title>
+    <figure>
+        <title>Asignación de Tareas</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/tareas/1.png" scale="83" align="center"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    <para>
+        En este capítulo se describe la funcionalidad detallada de la administración
+        de tareas y comentarios relaionados a éstas. Además del monitoreo de las
+        diferentes tareas y sus respectivos estados de avance.
+    </para>
+        
+    <important>
+        <title>importante</title>
+        <para>
+            Se debe tener registrado el usuario al que se le asignará la tarea, 
+            caso contrario esta funcionalidad no se realzirá. Consulte el capítulo 
+            de administración de cuentas de usuarios.
+        </para>
+    </important>    
+	
+    <section>
+        <title>Asignación de Tarea</title>
+        <figure>
+            <title>Asignar nueva tarea</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/tareas/2.png" scale="83" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Al seleccionar la opción de<application> asignar nueva tarea</application>, 
+            la pantalla solicitará seleccionar el <application>usuario</application> 
+            que será encomendado con la nueva tarea, además se debe insertar el 
+            <application>nombre o desiganción</application> que recibirá la tarea. 
+            El siguiente campo es la <application>descripción</application> del 
+            tratamiento de la tarea y como último campo la fecha estimada de conclusión 
+            de la nueva tarea. Una vez ingresado estos campos, que por cieton son 
+            obligatorios excepto la fecha estimada de conclusión. se debe hacer 
+            clic en el botoón de guardar y guardar y crear otro (en caso de solo) 
+            o en su caso clic al botón de la izquierda para regresar al portal.
+        </para>
+        <figure>
+            <title>Nueva Tarea</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/tareas/2.1.png" width="500" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </section>
+    <section>
+        <title>Listado de Tareas Asignadas</title>
+        <figure>
+            <title>Tareas Asignadas</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/tareas/3.png" scale="83" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Una vez asignada las tareas por el administrador se tiene la opcion
+            del listado de todas las <application>tareas asignadas</application>. 
+            En esta opción, en la parte de acciones se encuentra la opción de 
+            comentarios que se pueden registrar entre el usuario administrador y 
+            el usuario al que se asignó la tarea respectiva.
+        </para>
+        <figure>
+            <title>Listado de Tareas Asignadas</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/tareas/3.1.png" width="500" align="center" />
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Al ingresar a la acción de los <application>comentarios</application>, nos aparece la pantalla 
+            que se mostrará a acontinuación, en  la que unicamente se dejará
+            los coemntarios necesarios, ademas como se puede apreciar se lista
+            en la parte superior de la pantalla los comentarios registrados por
+            ambas partes involucradas.
+        </para>
+        <figure>
+            <title>Comentarios</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/tareas/3.2.png" width="500" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        
+        <important> 
+            <title>Tareas en Progreso, Observadas y Concluidas</title>
+            <para>
+                El listado de <application>Tareas en Progreso, Observadas y Concluidas</application>
+                el procedimiento es el mismo que la anterior sección: <application> Listado
+                    de Tareas Asignadas</application>, por lo que para listar o comentar
+                alguna tarea de las listas de los estado ya mencionados seguimos el 
+                mismo proceder de la sección anterior. 
+            </para>
+        </important>
+        <figure>
+            <title>Tareas en Progreso, Observadas y Concluidas</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/tareas/4.png" scale="83" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </section>
+    
+
+        
+        
+    <section>
+        <title> Tareas Asigandas al Usuario</title>
+        <figure>
+            <title>Tareas Asignadas</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/tareas/5.png" scale="83" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Esta sección esta relacionada a la administración de las tareas 
+            asignadas a los usuarios; es decir, los usuarios regulares ingresan
+            a esta opción para ver las tareas asignadas a éste. El usuario tiene 
+            el listado de las tareas en sus diferentes estados.
+        </para>
+        
+        <section>
+            <title>Listado de tareas Asignadas</title>
+            <figure>
+                <title>Tareas Asignadas</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/tareas/6.png" scale="83" align="center"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+            <para> 
+                En esta sección el usuario podrá listar las tareas <application>
+                    asigandas</application> y sus respectivos comentarios; es decir 
+                sigue la misma lógica del punto 4.1. El usuario que fue asignado
+                a una respectiva tarea será el único con permisos de cambiar su
+                estado.
+            </para>
+            <figure>
+                <title>Tareas Asignadas</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/tareas/3.1.png" width="500" align="center"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+            <figure>
+                <title>Comentarios</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/tareas/3.2.png" width="500" align="center"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+            <important> 
+                <title>Tareas en Progreso, Observadas y Concluidas</title>
+                <para>
+                    El listado de <application>Tareas en Progreso, Observadas y Concluidas</application>
+                    el procedimiento es el mismo que la anterior sección: <application> Listado
+                    de Tareas Asignadas</application>, por lo que para listar o comentar
+                    alguna tarea de las listas de los estado ya mencionados seguimos el 
+                    mismo proceder de la sección anterior. 
+                </para>
+            </important>
+            <figure>
+                <title>Tareas en Progreso, Observadas y Concluidas</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/tareas/4.png" scale="80" align="center"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </section>
+    </section>
+</chapter>
+

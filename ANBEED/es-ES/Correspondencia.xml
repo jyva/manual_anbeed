@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "ANBEED.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="correspondencia">
+    <title>Emisión de Correspondencia</title>
+    <figure>
+        <title>Registro de Correspondencia</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/correspondencia/corresp1.png" scale="83" align="center"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    <para>
+        En este capítulo se describe la funcionalidad detallada para 
+        registrar la emisión de correspondencia. 
+            
+    </para>
+        
+    <important>
+        <title>importante</title>
+        <para>
+            Se debe considerar  que al momento de registrar una emisión de 
+            correspondencia se necesita contar con la información necesaria 
+            registrada en el sistema para completar correctamente esta función.
+            En caso de no contar registrado los campos necesario a continuacion
+            se explica como se debe realizar.
+        </para>
+    </important>    
+	
+    <section>
+        <title>Tipo de Documento</title>
+        <figure>
+            <title>Tipo de Documento</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp2.png" scale="83" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Al ingresar al listado de todos los<application> Tipo de Documentos</application>
+            y no contar registrado con el que necesitamos se debe registrar el
+            tipo de documento nuevo, haciendo clic en el boton de <application> Nuevo</application>
+            en la parte inferior derecha de la pantalla del sistema.
+        </para>
+        <figure>
+            <title>Nuevo Tipo de Documento</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp3.png" scale="40" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Para registar el nuevo <application>Tipo de Documento</application> 
+            únicamente ingresamos el nombre de éste y hacemos clic en el botón
+            de guardar. Si quisieramos registrar mas de un <application>Tipo de Documento</application> 
+            hacemos clic en el botón de guardar y crear otro.
+        </para>
+        <figure>
+            <title>Guardar Tipo de Documento</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp4.png" scale="40" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </section>
+    <section>
+        <title>Emisor de Correspondencia</title>
+        <figure>
+            <title>Emisor de Correspondencia</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp5.png" scale="83" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Al ingresar al listado de todos los<application> Emisores</application>
+            y no contar registrado con el que necesitamos se debe registrar el
+            tipo de documento nuevo, haciendo clic en el boton de <application> Nuevo</application>
+            en la parte inferior derecha de la pantalla del sistema.
+        </para>
+        <figure>
+            <title>Nuevo Emisor de Correspondencia</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp6.png" scale="40" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Para registar el nuevo <application>Emisor de Correspondencia</application> 
+            únicamente ingresamos el nombre de éste y hacemos clic en el botón
+            de guardar. Si quisieramos registrar mas de un <application>Emisor de Correspondencia</application> 
+            hacemos clic en el botón de guardar y crear otro.
+        </para>
+        <figure>
+            <title>Guardar Emisor de Correspondencia</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp7.png" scale="40" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </section>
+    
+    <section>
+        <title>Registro de Correspondencia</title>
+        <figure>
+            <title>Emisión de Correspondencia</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp8.png" scale="83" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Al ingresar al listado de todos los registros de <application>Correspondencia</application>
+            , podemos editar borrar o registrar uno nuevo, tal y como se explica
+            en las funcionalidades generales del sistema. En nuestro caso para
+            registrar una nueva correspondencia, hacemos clic en el boton de 
+            <application> Nuevo</application> en la parte inferior derecha de la 
+            pantalla del sistema.
+        </para>
+        <figure>
+            <title>Emisión de Correspondencia</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp9.png" scale="40" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>
+            Para registar la nueva <application>Correspondencia</application> 
+            seleccionamos y llenamos oblicatoriamentelos los campos:
+            <application>Tipo de Documento</application>, <application>Emisor</application>
+            , <application>Detalle o nombre</application>, <application>Correspondencia</application>
+            y el <application>Número de guía</application>.
+        </para>
+        <para>
+            Los restantes campos que cuenta este formulario o son obligatorios, 
+            depende del detalle y tipo de correspondencia que se registará, estos
+            campos son: Empresa - Otro destino( en caso de que no se mande a una
+            empresa), No. y fecha factura, monto e item, no. reg. sanitario o 
+            despacho, codigo producto, forma costémica, fecha reg. sanitario o 
+            despacho y plazo de vencimiento.
+            Para guardar los campos llenados hacemos clic en el botón de guardar. 
+            Si quisieramos registrar mas de un <application>Emisor de Correspondencia</application> 
+            hacemos clic en el botón de guardar y crear otro.
+        </para>
+        <figure>
+            <title>Guardar Emisor de Correspondencia</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="images/correspondencia/corresp10.png" scale="40" align="center"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <note> 
+            <title>Nota - Acciones</title>
+            <para>
+                En caso de querer eliminar o editar algun elemento registrado 
+                descrito en este capítulo, se debe seguir los pasos explicados de 
+                estas acciones en el capítulo de aspectos generales del sistema. 
+            </para>
+        </note>
+    </section>
+</chapter>
+
