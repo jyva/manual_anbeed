@@ -1,6 +1,5 @@
 #.gitignore
 *~
-cache/
-log/
-nbproject/
-test/
+/ANBEED/nbproject/
+/nbproject/
+/tmp/

@@ -5,8 +5,8 @@
 ]>
 <book>
 	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="Introduccion.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="Interfaz_Usuario.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	<xi:include href="Preface.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
         <xi:include href="Empresas.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
         <xi:include href="Formularios.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
         <xi:include href="Administracion.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
@@ -15,6 +15,5 @@
 	<xi:include href="Tareas.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="Catalogo.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
         <xi:include href="Usuarios.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	<index />
 </book>
 
