@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="capitulo_1">
+    <title>Introducción</title>
+    <section id="seccion_1">
+        <title>Propósito y audiencia</title>
+        <para>
+            El presente documento es el manual de uruaio 
+            para el manejo de cada uno de los módulos del Sistema ANBEED. 
+            
+            El Sistema Web ANBEED surge como resultado de la necesidad de integrar
+            el sistema con el flujo de trabajo de la empresa, tomando como base 
+            la experiencia de su anterior sistema informático y aprovechando tecnologias
+            como intranet e internet.
+        </para>
+    </section>
+
+    <section id="seccion_2">
+        <title>Respecto este documento</title>
+        <para>
+            Este documento ha sido escrito por los desarrolladores de Capsule System SRL., si usted
+            tiene dudas o sugerencias, puede comunicarse o escribir un email a los autores del documento.
+        </para>
+    </section>
+</chapter>

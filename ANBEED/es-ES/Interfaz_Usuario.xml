@@ -1,0 +1,177 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="capitulo_1">
+  <title>Vista general del sistema.</title>
+  <section>
+    <title>Interfaz de usuario, primeros pasos.</title>
+    <figure>
+        <title>Navegador web</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea101.png" scalefit="1" width="100%" contentdepth="100%"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    <para>
+        El sistema es completamente web, para esto usted necesita primero abrir
+        un navegador web como <application>Mozilla Firefox</application> o 
+        <application>Google Chrome</application>.
+    </para>
+    <important>
+        <title>importante</title>
+        <para>
+            Se recomienda al usuario no usar del navegador <application>Internet Explorer</application>
+            nativo de <application>Ms Windows</application> para tener un mejor
+            rendimiento del sistema elija siempre el navegador 
+            <application>Firefox</application> o <application>Google Chrome</application>.
+        </para>
+    </important>
+    <para>
+        Una vez abierto el navegador debemos colocar en la barra de direcciones
+        la URL del sistema <application>www.anbeed.com</application>
+        el navegador solicitara la página principal y nos mostrara la página de
+        <application>login</application>, en caso de no contar con la dirección del sistema
+        se lo debe solicitar al encargado del sistema, la direccion podría ser similar a
+        <application>192.168.0.101</application>
+    </para>
+    <para>
+        La siguiente imagen muestra la página de loguin del sistema ANBEED. (Ingreso del sistema).
+    </para>
+    <figure>
+        <title>Página login del sistema ANBEED</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea100.png" scalefit="1" width="100%" contentdepth="100%"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        Debemos ingresar con un usuario y contraseña ya registrados en el sitema.
+    </para>
+    <para>
+        Una vez dentro, nos encontraremos con el portal del sistema, que nos
+        facilitara navegar por los diferentes módulos del sistema.
+        Él portal esta dividido por secciones y de acuerdo en lo que se va a trabajar. Siempre podemos 
+        llegar al portal si le damos click en el link de la parte superior <application>PORTAL</application>.
+    </para>
+    <para>
+        En la siguiente imagen podemos observar el portal del sistema.
+    </para>
+    <figure>
+        <title>Portal del sistema ANBEED</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea103.png" scalefit="1" width="100%" contentdepth="100%"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        Para ingresar a un módulo, solo debemos hacer un click derecho con el mouse
+        en un link. Una vez dentro de cualquier módulo, simpre tendremos similares
+        opciones.
+    </para>
+    <para>
+        La siguiente captura muestra las opciones de un módulo, un listando de datos,
+        acciones de una fila, volver atras, nuevo formulario, filtros para el listado,
+        modo de orden del listado, paginación del listado.
+    </para>
+    <figure>
+        <title>Ejemplo de módulo de ABEED</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea104.png" scalefit="1" width="100%" contentdepth="100%"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        En la captura podemos observar un módulo del sistema, este módulo es el de empresas,
+        desde este módulo podemos ingresar a una empresa, haciendo click en el link ingresar,
+        podemos imprimir su información, podemos navegar en las páginas, podemos solicitar 
+        un formulario para la creación de una nueva empresa, o por ultimo podemos volver al portal.
+    </para>
+     <note>
+        <title>Impresión</title>
+        <para>
+            Para todas las impresiones, el sistema primero genera un Documento PDF,
+            este luego se puede imprimir o se puede descargar para imprimirlo en otra
+            PC.
+        </para>
+    </note>
+    <para>
+        Para el filtrado de filas en el listado del módulo, debemos introducir
+        algún criterio o patron de búsqueda, por ejemplo en la captura de pantalla tenemos 
+        RAZÓN SOCIAL y NIT, es decir que podemos realizar una filtración por estos dos
+        criterios.
+    </para>
+    <para>
+        Para la creación de un nuevo registro, hacemos un click en el link 
+        <application>Nuevo</application> e ingresaremos al formulario. La siguiente
+        captura muestra el formulario en blanco.
+    </para>
+    <figure>
+        <title>Formulario en blanco - sistema ANBEED</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea105.png" scalefit="1" width="100%" contentdepth="100%"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        Los formularios en el momento de guardar la información son validados, y
+        nos mostrara una notificación de éxito, o en caso contrario un aviso de error.
+        En el caso de error el formulario nos mostrara con rojo los campos que estén
+        incorrectos. La siguiente captura muestra como es un error en un formulario
+        del sistema.
+    </para>
+    <figure>
+        <title>Formulario con error - sistema ANBEED</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea106.png" scalefit="1" width="100%" contentdepth="100%"/>
+            </imageobject>        
+        </mediaobject>
+    </figure>
+    <para>
+        En caso de éxito de guardado del formulario, el formulario se colocara 
+        en modo editar los datos recientes que se almacenaron. Para regresar al 
+        listado solo debemos hacer un click derecho con el mouse en el link
+        <application>Listar</application>.
+    </para>
+    <note>
+        <title>Nota - Controles de registros</title>
+        <para>
+            Tenemos la misma estructura, información en la cabecera, controles o 
+            campos para ser llenados en el cuerpo y acciones en la parte inferior,
+            para almacenar la información debemos hacer click en el botón "Guardar",
+            si deseamos guardar y llenar otro rápidamente, hacemos un click en el
+            botón "Guardar y crear otro".
+        </para>
+    </note>
+  </section>
+  <section>
+    <title>Portal de empresas</title>
+    <figure>
+        <title>Portal de empresa</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="images/interfaz/instantanea107.png" scalefit="1" width="100%" contentdepth="100%"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    <para>
+        En esta página web o aplicación web, podemos observar los módulos del sistema
+        ingresamos a esta página desde el listado de empresas en el link
+        <application>Ingresar</application>. La captura podemos apreciarla 
+        arriba de este parrafo.
+    </para>
+    <para>
+        Desde el menú superior podemos ir al portal inicial sistema con el link 
+        <application>Portal</application>, o podemos ir al listado de empresas con el
+        link <application>Listado de Empresas</application>, y por último y el más util 
+        trabajando dentro de una empresa podemos ir al portal de la empresa seleccionada
+        con el link <application>Administrar Empresa</application>
+    </para>
+  </section>
+</chapter>
