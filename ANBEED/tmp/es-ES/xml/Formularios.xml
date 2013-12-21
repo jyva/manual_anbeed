@@ -44,7 +44,7 @@
 				<title>Link a los Formularios 5</title>
 				 <mediaobject>
 					<imageobject>
-						<imagedata fileref="images/Formularios/Medicamentos/lista.png" scale="83" width="444" />
+						<imagedata align="center" contentdepth="100%" fileref="images/Formularios/Medicamentos/lista.png" scalefit="1" width="100%" />
 					</imageobject>
 
 				</mediaobject>
@@ -58,7 +58,7 @@
 						<title>Lista Vacía de Formularios</title>
 						 <mediaobject>
 							<imageobject>
-								<imagedata fileref="images/Formularios/Medicamentos/lista-vacia.png" scale="83" width="444" />
+								<imagedata align="center" contentdepth="100%" fileref="images/Formularios/Medicamentos/lista-vacia.png" scalefit="1" width="100%" />
 							</imageobject>
 
 						</mediaobject>
@@ -80,7 +80,7 @@
 				<title>Link a los Formularios 5</title>
 				 <mediaobject>
 					<imageobject>
-						<imagedata fileref="images/Formularios/Medicamentos/lista.png" scale="83" width="444" />
+						<imagedata align="center" contentdepth="100%" fileref="images/Formularios/Medicamentos/lista.png" scalefit="1" width="100%" />
 					</imageobject>
 
 				</mediaobject>
@@ -94,7 +94,7 @@
 						<title>Lista Vacía de Formularios</title>
 						 <mediaobject>
 							<imageobject>
-								<imagedata fileref="images/Formularios/Medicamentos/lista-vacia.png" scale="83" width="444" />
+								<imagedata align="center" contentdepth="100%" fileref="images/Formularios/Medicamentos/lista-vacia.png" scalefit="1" width="100%" />
 							</imageobject>
 
 						</mediaobject>
@@ -115,7 +115,7 @@
 						<title>Navegación</title>
 						 <mediaobject>
 							<imageobject>
-								<imagedata fileref="images/Formularios/navegacion.png" scale="83" width="444" />
+								<imagedata align="center" contentdepth="100%" fileref="images/Formularios/navegacion.png" scalefit="1" width="100%" />
 							</imageobject>
 
 						</mediaobject>
@@ -137,7 +137,7 @@
 				<title>Imprimir Formulario</title>
 				 <mediaobject>
 					<imageobject>
-						<imagedata fileref="images/Formularios/Medicamentos/imprimir.png" scale="83" />
+						<imagedata align="center" contentdepth="100%" fileref="images/Formularios/Medicamentos/imprimir.png" scalefit="1" width="100%" />
 					</imageobject>
 
 				</mediaobject>
@@ -151,7 +151,7 @@
 						<title>Vista Previa</title>
 						 <mediaobject>
 							<imageobject>
-								<imagedata fileref="images/Formularios/vista-previa.png" scale="83" width="444" />
+								<imagedata align="center" contentdepth="100%" fileref="images/Formularios/vista-previa.png" scalefit="1" width="100%" />
 							</imageobject>
 
 						</mediaobject>
@@ -194,7 +194,7 @@
 				<title>Link a los Formularios 7</title>
 				 <mediaobject>
 					<imageobject>
-						<imagedata fileref="images/Formularios/form7.png" scale="83" width="444" />
+						<imagedata align="center" contentdepth="100%" fileref="images/Formularios/form7.png" scalefit="1" width="100%" />
 					</imageobject>
 
 				</mediaobject>
@@ -215,7 +215,7 @@
 						<title>Lista Vacía de Formularios 7</title>
 						 <mediaobject>
 							<imageobject>
-								<imagedata fileref="images/Formularios/form7-vacio.png" scale="83" width="444" />
+								<imagedata align="center" contentdepth="100%" fileref="images/Formularios/form7-vacio.png" scalefit="1" width="100%" />
 							</imageobject>
 
 						</mediaobject>
@@ -236,7 +236,7 @@
 						<title>Autocompletado</title>
 						 <mediaobject>
 							<imageobject>
-								<imagedata fileref="images/Formularios/form7-auto.png" scale="83" width="444" />
+								<imagedata align="center" contentdepth="100%" fileref="images/Formularios/form7-auto.png" scalefit="1" width="100%" />
 							</imageobject>
 
 						</mediaobject>
@@ -254,7 +254,7 @@
 						<title>Navegación</title>
 						 <mediaobject>
 							<imageobject>
-								<imagedata fileref="images/Formularios/navegacion.png" scale="83" width="444" />
+								<imagedata align="center" contentdepth="100%" fileref="images/Formularios/navegacion.png" scalefit="1" width="100%" />
 							</imageobject>
 
 						</mediaobject>
@@ -280,7 +280,7 @@
 						<title>Vista Previa</title>
 						 <mediaobject>
 							<imageobject>
-								<imagedata fileref="images/Formularios/vista-previa7.png" scale="83" width="444" />
+								<imagedata align="center" contentdepth="100%" fileref="images/Formularios/vista-previa7.png" scalefit="1" width="100%" />
 							</imageobject>
 
 						</mediaobject>
@@ -307,7 +307,7 @@
 				<title>Nueva Formula Cuali-cuantitativa</title>
 				 <mediaobject>
 					<imageobject>
-						<imagedata fileref="images/Formularios/formulacc.png" scale="83" width="444" />
+						<imagedata align="center" contentdepth="100%" fileref="images/Formularios/formulacc.png" scalefit="1" width="100%" />
 					</imageobject>
 
 				</mediaobject>
@@ -320,7 +320,7 @@
 				<title>Nueva Formula Cuali-cuantitativa</title>
 				 <mediaobject>
 					<imageobject>
-						<imagedata fileref="images/Formularios/formulacc.png" scale="83" width="444" />
+						<imagedata align="center" contentdepth="100%" fileref="images/Formularios/formulacc.png" scalefit="1" width="100%" />
 					</imageobject>
 
 				</mediaobject>

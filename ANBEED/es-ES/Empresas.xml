@@ -9,7 +9,7 @@
         <title>Cubo de Empresas</title>
         <mediaobject>
             <imageobject>
-                <imagedata fileref="images/Empresas/cubo.png" scale="83"/>
+                <imagedata fileref="images/Empresas/cubo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
             </imageobject>
         </mediaobject>
     </figure>
@@ -35,7 +35,7 @@
             <title>Registrar una Nueva Empresa</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Empresas/nuevo.png" scale="83"/>
+                    <imagedata fileref="images/Empresas/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -71,7 +71,7 @@
             <title>Listado de Empresas</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Empresas/lista.png" scale="83"/>
+                    <imagedata fileref="images/Empresas/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -96,7 +96,7 @@
             <title>Filtros para las Empresas</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Empresas/filtro.png" scale="83"/>
+                    <imagedata fileref="images/Empresas/filtro.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -136,7 +136,7 @@
                 <title>Nueva Empresa</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Empresas/nuevo.png" scale="83"/>
+                        <imagedata fileref="images/Empresas/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -173,7 +173,7 @@
                 <title>Imprimir Formulario 3 desde la Lista</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Empresas/imprimir1.png" scale="83"/>
+                        <imagedata fileref="images/Empresas/imprimir1.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -218,7 +218,7 @@
             <title>El Portal de la Empresa</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Empresas/Portal/portal.png" scale="83"/>
+                    <imagedata fileref="images/Empresas/Portal/portal.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -241,7 +241,7 @@
                 <title>El Cubo de Administración</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Empresas/Portal/administracion.png" scale="83"/>
+                        <imagedata fileref="images/Empresas/Portal/administracion.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -280,7 +280,7 @@
                     <title>Editar/Actualizar una Empresa</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Administracion/editar.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Administracion/editar.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>
@@ -300,7 +300,7 @@
                     <title>Listado de Personas</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Administracion/lista-persona.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Administracion/lista-persona.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>
@@ -319,7 +319,7 @@
                     <title>El Representante Legal</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Administracion/representante.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Administracion/representante.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>
@@ -374,7 +374,7 @@
                     <title>Listado de Personas</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Administracion/lista-persona.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Administracion/lista-persona.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>
@@ -393,7 +393,7 @@
                     <title>El Regente Farmaceutico</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Administracion/regente.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Administracion/regente.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>
@@ -443,7 +443,7 @@
                 <title>Los Productos</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Empresas/Portal/productos.png" scale="83"/>
+                        <imagedata fileref="images/Empresas/Portal/productos.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -472,7 +472,7 @@
                     <title>Lista del Producto Seleccionado</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Productos/lista.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Productos/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>
@@ -514,7 +514,7 @@
                 <title>El Despachos Aduanero</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Empresas/Portal/despachos.png" scale="83"/>
+                        <imagedata fileref="images/Empresas/Portal/despachos.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -574,7 +574,7 @@
                     <title>Lista de Despachos Aduaneros</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Despachos/lista.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Despachos/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>
@@ -603,7 +603,7 @@
                     <title>Asignacion de Productos al Despacho Aduanero</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Despachos/lista-productos.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Despachos/lista-productos.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>
@@ -621,7 +621,7 @@
                             <title>Detalle de Productos Asignados</title>
                             <mediaobject>
                                 <imageobject>
-                                    <imagedata fileref="images/Empresas/Portal/Despachos/detalle-productos.png" scale="83" />
+                                    <imagedata fileref="images/Empresas/Portal/Despachos/detalle-productos.png" scalefit="1" width="100%" contentdepth="100%" align="center" />
                                 </imageobject>
                             </mediaobject>
                         </figure>
@@ -636,7 +636,7 @@
                 <title>Los Reportes de Formularios</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Empresas/Portal/formularios.png" scale="83"/>
+                        <imagedata fileref="images/Empresas/Portal/formularios.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -654,7 +654,7 @@
                 <title>Notificaciones al Cliente</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Empresas/Portal/notificaciones.png" scale="83"/>
+                        <imagedata fileref="images/Empresas/Portal/notificaciones.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -691,7 +691,7 @@
                     <title>Notificaciones al Cliente</title>
                     <mediaobject>
                         <imageobject>
-                            <imagedata fileref="images/Empresas/Portal/Notificacion/nuevo.png" scale="83"/>
+                            <imagedata fileref="images/Empresas/Portal/Notificacion/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                         </imageobject>
                     </mediaobject>
                 </figure>

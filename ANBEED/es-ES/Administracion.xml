@@ -9,7 +9,7 @@
         <title>Cubo de Administración</title>
         <mediaobject>
             <imageobject>
-                <imagedata fileref="images/Administracion/cubo.png" scale="83"/>
+                <imagedata fileref="images/Administracion/cubo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
             </imageobject>
         </mediaobject>
     </figure>
@@ -30,7 +30,7 @@
             <title>Listado de Códigos de Producto</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/CodigoProducto/lista.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/CodigoProducto/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -51,7 +51,7 @@
             <title>Nuevo Código de Producto</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/CodigoProducto/nuevo.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/CodigoProducto/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -71,7 +71,7 @@
             <title>Editar un Código de Producto</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/CodigoProducto/editar.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/CodigoProducto/editar.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -96,7 +96,7 @@
             <title>Filtros para los Código de Producto</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/CodigoProducto/filtro.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/CodigoProducto/filtro.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -130,7 +130,7 @@
             <title>Listado de Ingredientes</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Ingredientes/lista.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Ingredientes/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -151,7 +151,7 @@
             <title>Nuevo Ingrediente</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Ingredientes/nuevo.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Ingredientes/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -171,7 +171,7 @@
             <title>Editar un Ingrediente</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Ingredientes/editar.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Ingredientes/editar.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -196,7 +196,7 @@
             <title>Filtros para los Ingredientes</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Ingredientes/filtro.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Ingredientes/filtro.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -231,7 +231,7 @@
             <title>Listado de Tipos de Venta</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/TipoVenta/lista.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/TipoVenta/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -252,7 +252,7 @@
             <title>Nuevo Tipo de Venta</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/TipoVenta/nuevo.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/TipoVenta/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -272,7 +272,7 @@
             <title>Editar un Tipo de Venta</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/TipoVenta/editar.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/TipoVenta/editar.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -297,7 +297,7 @@
             <title>Filtros para los Tipo de Venta</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/TipoVenta/filtro.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/TipoVenta/filtro.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -332,7 +332,7 @@
             <title>Listado de Vias de Administración</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/ViasAdministracion/lista.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/ViasAdministracion/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -353,7 +353,7 @@
             <title>Nueva Via de Administración</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/ViasAdministracion/nuevo.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/ViasAdministracion/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -373,7 +373,7 @@
             <title>Editar una Via de Administración</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/ViasAdministracion/editar.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/ViasAdministracion/editar.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -398,7 +398,7 @@
             <title>Filtros para las Vias de Administración</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/ViasAdministracion/filtro.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/ViasAdministracion/filtro.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -433,7 +433,7 @@
             <title>Listado de Grupos Cosméticos</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/GrupoCosmetico/lista.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/GrupoCosmetico/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -454,7 +454,7 @@
             <title>Nuevo Grupo Cosmético</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/GrupoCosmetico/nuevo.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/GrupoCosmetico/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -474,7 +474,7 @@
             <title>Editar un Grupo Cosmetico</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/GrupoCosmetico/editar.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/GrupoCosmetico/editar.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -499,7 +499,7 @@
             <title>Filtros para los Grupos Cosméticos</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/GrupoCosmetico/filtro.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/GrupoCosmetico/filtro.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -534,7 +534,7 @@
             <title>Listado de Paises</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Paises/lista.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Paises/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -555,7 +555,7 @@
             <title>Nuevo País</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Paises/nuevo.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Paises/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -575,7 +575,7 @@
             <title>Editar un País</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Paises/editar.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Paises/editar.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -600,7 +600,7 @@
             <title>Filtros para los Paises</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Paises/filtro.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Paises/filtro.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -635,7 +635,7 @@
             <title>Listado de Ciudades</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Ciudades/lista.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Ciudades/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -656,7 +656,7 @@
             <title>Nueva Ciudad</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Ciudades/nuevo.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Ciudades/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -682,7 +682,7 @@
             <title>Editar una Ciudad</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Ciudades/editar.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Ciudades/editar.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>
@@ -707,7 +707,7 @@
             <title>Filtros para las Ciudades</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="images/Administracion/Ciudades/filtro.png" scale="83"/>
+                    <imagedata fileref="images/Administracion/Ciudades/filtro.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                 </imageobject>
             </mediaobject>
         </figure>

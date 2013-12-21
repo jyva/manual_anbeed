@@ -55,7 +55,7 @@
                 <title>Lista de Usuarios del Sistema</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Usuarios/lista.png" scale="83"/>
+                        <imagedata fileref="images/Usuarios/lista.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -71,7 +71,7 @@
                 <title>Registrar un Nuevo Usuario del Sistema</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Usuarios/nuevo.png" scale="83"/>
+                        <imagedata fileref="images/Usuarios/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
@@ -127,7 +127,7 @@
                 <title>Registrar un Nuevo Usuario Cliente</title>
                 <mediaobject>
                     <imageobject>
-                        <imagedata fileref="images/Empresas/Usuario/nuevo.png" scale="83"/>
+                        <imagedata fileref="images/Empresas/Usuario/nuevo.png" scalefit="1" width="100%" contentdepth="100%" align="center"/>
                     </imageobject>
                 </mediaobject>
             </figure>
